@@ -1,4 +1,4 @@
-# ITAI-4373-Course-Portfolio
+# ITAI 4373 New Nature of Work in AI Course Portfolio
 
 # ITAI-4373_FINAL-COURSE-PORTFOLIO
 ## Hello! I was given an assignment to create a comprehensive portfolio that showcases your learning journey throughout the course, which  is a wonderful idea!
