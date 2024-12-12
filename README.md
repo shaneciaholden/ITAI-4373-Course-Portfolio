@@ -12,7 +12,7 @@
 
 ### Module 2: Computational Infrastructure for AI
 
-  - Tool : Python
+  - Tool : Python 
     - Built simulations of hardware components and analyzed CPU/memory optimization.
     - Real-world applications included autonomous vehicles and financial trading.
 
