@@ -19,7 +19,7 @@
 
 ### Module 3: Fundamentals of Real-Time Simulations in AI
   
-  -Tool : NetLogo
+  - Tool : NetLogo
       
    - Explored the Flocking model to study emergent behaviors.
 
