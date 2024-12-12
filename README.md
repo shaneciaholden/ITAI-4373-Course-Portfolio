@@ -1,10 +1,10 @@
 # ITAI 4373 New Nature of Work in AI Course Portfolio
 
-# ITAI-4373_FINAL-COURSE-PORTFOLIO
-## Hello! I was given an assignment to create a comprehensive portfolio that showcases your learning journey throughout the course, which  is a wonderful idea!
+## ITAI 4373 FINAL COURSE PORTFOLIO
+### Hello! I was given an assignment to create a comprehensive portfolio that showcases your learning journey throughout the course, which  is a wonderful idea!
 
 
-### Module 1: Evolution and Impact of AI Simulation and Digital Twins
+#### Module 1: Evolution and Impact of AI Simulation and Digital Twins
 
 - Tool : AnyLogic
  - Simulated customer flow in a bank office to understand agent-based modeling.
